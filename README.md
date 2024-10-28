@@ -1,4 +1,4 @@
-<h1 align="center">MiroTalk P2P</h1>
+<h1 align="center">PoliMood P2P</h1>
 
 <br />
 
